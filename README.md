@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Machine Learning,Data Science
-- 🌱 I’m currently learning cool stuff in ML
+- 🌱 I’m currently learning cool stuff using ML
 - 👯 I’m looking to collaborate on OSS
 - 💬 Ask me about anything 
 - 📫 How to reach me: moruyelawrence@gmail.com
